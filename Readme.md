@@ -18,8 +18,6 @@ Welcome to the HealthCare Website, a simple and user-friendly platform for booki
 - [Technologies Used](#technologies-used)
 - [Deployment](#deployment)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
@@ -50,14 +48,6 @@ The HealthCare Website is deployed on Azure Cloud and is also available on GitHu
 ## Usage
 
 To start using the HealthCare Website, simply visit the provided links and follow the on-screen instructions to book an appointment with a doctor of your choice.
-
-## Contributing
-
-We welcome contributions from the open-source community. If you'd like to contribute to this project, please follow our [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as needed.
 
 ---
 
