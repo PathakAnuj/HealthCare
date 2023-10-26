@@ -2,9 +2,14 @@
 
 Welcome to the HealthCare Website, a simple and user-friendly platform for booking appointments with doctors. This project leverages two Azure technologies, "Static Web App" and "Azure Maps," to provide a seamless and efficient healthcare experience for users.
 
-![HealthCare Website](link-to-your-website-screenshot.png)
-![Azure Maps](link-to-azure-maps-screenshot.png)
-![Azure Deployment](link-to-azure-deployment-screenshot.png)
+![HealthCare Website]<img width="955" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/e8c838cf-69b4-4849-9882-f6186e79b126">
+
+![Azure Maps]<img width="958" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/52e1de24-da50-4f8c-b90e-57be1f17017d">
+
+
+![Azure Deployment] ![image](https://github.com/PathakAnuj/HealthCare/assets/109123656/6178dd14-cefb-47e1-8159-0cd111f3b87d)
+
+
 
 ## Table of Contents
 
