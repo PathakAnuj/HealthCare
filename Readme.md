@@ -7,7 +7,8 @@ Welcome to the HealthCare Website, a simple and user-friendly platform for booki
 <h3>Azure Maps</h3><img width="958" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/52e1de24-da50-4f8c-b90e-57be1f17017d">
 
 
-<h3>Azure Deployment</h3> ![image](https://github.com/PathakAnuj/HealthCare/assets/109123656/a5037e0b-3735-4656-8403-511eb230ad13)
+<h3>Azure Deployment</h3> <img width="803" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/f3781022-cff1-438b-98da-dffa3edebe9d">
+
 
 
 
