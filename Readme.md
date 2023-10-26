@@ -2,12 +2,13 @@
 
 Welcome to the HealthCare Website, a simple and user-friendly platform for booking appointments with doctors. This project leverages two Azure technologies, "Static Web App" and "Azure Maps," to provide a seamless and efficient healthcare experience for users.
 
-![HealthCare Website]<img width="955" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/e8c838cf-69b4-4849-9882-f6186e79b126">
+<h3>HealthCare Website</h3><img width="955" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/e8c838cf-69b4-4849-9882-f6186e79b126">
 
-![Azure Maps]<img width="958" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/52e1de24-da50-4f8c-b90e-57be1f17017d">
+<h3>Azure Maps</h3><img width="958" alt="image" src="https://github.com/PathakAnuj/HealthCare/assets/109123656/52e1de24-da50-4f8c-b90e-57be1f17017d">
 
 
-![Azure Deployment] ![image](https://github.com/PathakAnuj/HealthCare/assets/109123656/6178dd14-cefb-47e1-8159-0cd111f3b87d)
+<h3>Azure Deployment</h3> ![image](https://github.com/PathakAnuj/HealthCare/assets/109123656/a5037e0b-3735-4656-8403-511eb230ad13)
+
 
 
 
@@ -51,4 +52,3 @@ To start using the HealthCare Website, simply visit the provided links and follo
 
 ---
 
-Thank you for using the HealthCare Website! If you have any questions, issues, or suggestions, please don't hesitate to contact us. We hope this platform makes your healthcare journey easier and more convenient.
